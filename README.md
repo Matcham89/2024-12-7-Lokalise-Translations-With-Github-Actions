@@ -1,5 +1,5 @@
 ---
-{}
+title: Lokalise Translations With Github Actions
 ---
 
 <br />
